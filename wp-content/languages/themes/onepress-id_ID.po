@@ -1,0 +1,1327 @@
+# Translation of Themes - OnePress in Indonesian
+# This file is distributed under the same license as the Themes - OnePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-15 07:44:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: id\n"
+"Project-Id-Version: Themes - OnePress\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "OnePress"
+msgstr "OnePress"
+
+#: inc/customize-configs/section-hero.php:203
+msgid "The amount of time in between slides, expressed as the number of milliseconds."
+msgstr "Hitungan waktu antara slide, diekspresikan dalam bentuk milliseconds."
+
+#: inc/customize-configs/section-hero.php:202
+msgid "Slider duration speed"
+msgstr "Kecepatan durasi slider"
+
+#: inc/customize-configs/section-hero.php:186
+msgid "This is the speed at which the image will fade in. Integers in milliseconds are accepted."
+msgstr "Ini adalah kecepatan pada gambar mana yang akan pudar. Integer dalam milliseconds diperbolehkan."
+
+#: inc/customize-configs/section-hero.php:185
+msgid "Slider animation speed"
+msgstr "Kecepatan animasi slider"
+
+#: inc/customize-configs/section-hero.php:167
+msgid "Text animation speed"
+msgstr "Kecepatan animasi tulisan"
+
+#: inc/customizer.php:209
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/customizer.php:205
+msgid "Search"
+msgstr "Cari"
+
+#: inc/admin/dashboard.php:723
+msgid "Are you sure want to copy ?"
+msgstr "Apakah yakin ingin menyalin ?"
+
+#: inc/admin/dashboard.php:372
+msgid "Recommend Plugins"
+msgstr "Plugin yang Disarankan"
+
+#: inc/admin/dashboard.php:352
+msgid "Copy now"
+msgstr "Salin sekarang"
+
+#: inc/admin/dashboard.php:344
+msgid "To Theme"
+msgstr "Ke Tema"
+
+#: inc/admin/dashboard.php:338
+msgid "From Theme"
+msgstr "Dari Tema"
+
+#: inc/admin/dashboard.php:332
+msgid "You're using %1$s theme, It's a child theme of OnePress"
+msgstr "Anda menggunakan tema %1$s, ini adalah tema anak OnePress"
+
+#: inc/admin/dashboard.php:791
+msgid "Details"
+msgstr "Rincian"
+
+#: inc/admin/dashboard.php:150
+msgid "Import Demo Data"
+msgstr "Impor Data Demo"
+
+#: inc/admin/dashboard.php:150
+msgid "Save time by import our demo data, your website will be set up and ready to customize in minutes. %s"
+msgstr "Hemat waktu dengan mengimpor data demo kami, situs Anda akan diatur dan siap untuk kustomisasi cepat. %s"
+
+#: inc/customize-configs/section-gallery.php:366
+msgid "Read More Text"
+msgstr "Tulisan Baca Selengkapnya"
+
+#: inc/customize-configs/section-gallery.php:360
+#: section-parts/section-gallery.php:37
+msgid "View More"
+msgstr "Lihat Selengkapnya"
+
+#: inc/customize-configs/section-gallery.php:349
+msgid "Read More Link"
+msgstr "Link Baca Selengkapnya"
+
+#: inc/customize-configs/options-global.php:31
+msgid "No sidebar"
+msgstr "Tanpa sidebar"
+
+#: inc/customize-configs/options-global.php:30
+msgid "Left sidebar"
+msgstr "Sidebar kiri"
+
+#: inc/customize-configs/options-global.php:29
+msgid "Right sidebar"
+msgstr "Sidebar kanan"
+
+#: inc/customize-configs/options-global.php:26
+msgid "Site Layout, apply for all pages, exclude home page and custom page templates."
+msgstr "Tata Letak Situs, terapkan pada semua laman, kecuali laman beranda dan template laman kustom."
+
+#: inc/customize-configs/options-global.php:25
+msgid "Site Layout"
+msgstr "Tata Letak Situs"
+
+#: functions.php:133
+msgid "Famethemes Demo Importer"
+msgstr "Pengimpor Demo FameThemes"
+
+#: functions.php:241
+msgid "WooCommerce Sidebar"
+msgstr "Sidebar WooCommerce"
+
+#: inc/customize-configs/section-about.php:120
+#: inc/customize-configs/section-services.php:120
+msgid "1 Column"
+msgstr "1 Kolom"
+
+#: inc/customize-configs/section-gallery.php:313
+msgid "Enable Lightbox"
+msgstr "Adakan Lightbox"
+
+#: inc/customize-configs/section-gallery.php:297
+msgid "Number items"
+msgstr "Item angka"
+
+#: inc/customize-configs/section-gallery.php:270
+msgid "Layout columns"
+msgstr "Tata Letak kolom"
+
+#: inc/customize-configs/section-gallery.php:252
+msgid "Row Height"
+msgstr "Tinggi Baris"
+
+#: inc/customize-configs/section-gallery.php:234
+msgid "Item Spacing"
+msgstr "Spasi Item"
+
+#: inc/customize-configs/section-gallery.php:218
+msgid "Masonry"
+msgstr "Masonry"
+
+#: inc/customize-configs/section-gallery.php:217
+msgid "Justified"
+msgstr "Justified"
+
+#: inc/class-config.php:51 inc/customize-configs/section-gallery.php:216
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customize-configs/section-gallery.php:215
+msgid "Carousel"
+msgstr "Carousel"
+
+#: inc/customize-configs/section-gallery.php:214
+msgid "Grid"
+msgstr "Grid"
+
+#: inc/customize-configs/section-gallery.php:209
+msgid "Display"
+msgstr "Display"
+
+#: inc/customize-configs/section-gallery.php:192
+msgid "Default, inside container"
+msgstr "Bawaan, didalam container"
+
+#: inc/customize-configs/options-footer.php:203
+#: inc/customize-configs/section-gallery.php:187
+msgid "Layout"
+msgstr "Tata Letak"
+
+#: inc/customize-configs/section-gallery.php:166
+msgid "Select Gallery Page"
+msgstr "Pilih Laman Galeri"
+
+#: inc/customize-configs/section-gallery.php:147
+msgid "Page"
+msgstr "Laman"
+
+#: inc/customize-configs/section-gallery.php:142
+msgid "Select Gallery Source"
+msgstr "Pilih Sumber Galeri"
+
+#: inc/class-config.php:142 inc/customize-configs/section-gallery.php:68
+#: section-parts/section-gallery.php:4
+msgid "Gallery"
+msgstr "Galeri"
+
+#: inc/customize-configs/section-gallery.php:51
+msgid "gallery"
+msgstr "galeri"
+
+#: inc/class-config.php:141 inc/customize-configs/section-gallery.php:12
+msgid "Section: Gallery"
+msgstr "Bagian: Galeri"
+
+#: inc/customize-configs/options-header.php:116
+msgid "Scroll to top when click to the site logo or site title, only apply on front page."
+msgstr "Scroll ke atas ketika klik pada logo atau judul situs, hanya berlaku untuk laman depan."
+
+#: inc/admin/dashboard.php:704
+msgid "FameThemes Demo Importer"
+msgstr "Pengimpor Demo FameThemes"
+
+#: inc/admin/dashboard.php:703
+msgid "Hey."
+msgstr "Hai."
+
+#: inc/admin/dashboard.php:699
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr "%1$s Anda perlu memasang dan mengaktifkan plugin %2$s terlebih dahulu."
+
+#: inc/admin/dashboard.php:682 inc/admin/dashboard.php:771
+msgid "Active Now"
+msgstr "Aktifkan Sekarang"
+
+#: inc/admin/dashboard.php:661 inc/admin/dashboard.php:750
+msgid "Install Now"
+msgstr "Pasang Sekarang"
+
+#: inc/customize-configs/section-hero.php:519
+msgid "Button #2 style"
+msgstr "Gaya tombol #2"
+
+#: inc/customize-configs/section-news.php:297
+msgid "More News Button Text"
+msgstr "Tulisan Tombol Berita Lainnya"
+
+#: inc/customize-configs/section-news.php:268
+msgid "It should be your blog page link."
+msgstr "Bisa dengan link laman blog Anda."
+
+#: inc/customize-configs/section-hero.php:464
+#: inc/customize-configs/section-hero.php:530
+msgid "Danger"
+msgstr "Danger"
+
+#: inc/customize-configs/section-hero.php:463
+#: inc/customize-configs/section-hero.php:529
+msgid "Warning"
+msgstr "Warning"
+
+#: inc/customize-configs/section-hero.php:462
+#: inc/customize-configs/section-hero.php:528
+msgid "Info"
+msgstr "Info"
+
+#: inc/customize-configs/section-hero.php:461
+#: inc/customize-configs/section-hero.php:527
+msgid "Success"
+msgstr "Success"
+
+#: inc/customize-configs/section-hero.php:460
+#: inc/customize-configs/section-hero.php:526
+msgid "Primary"
+msgstr "Primary"
+
+#: inc/customize-configs/section-hero.php:459
+#: inc/customize-configs/section-hero.php:525
+msgid "Button"
+msgstr "Tombol"
+
+#: inc/customize-configs/section-hero.php:458
+#: inc/customize-configs/section-hero.php:524
+msgid "Button Secondary"
+msgstr "Tombol Sekunder"
+
+#: inc/customize-configs/section-hero.php:457
+#: inc/customize-configs/section-hero.php:523
+msgid "Button Primary"
+msgstr "Tombol Utama"
+
+#: inc/customize-configs/section-hero.php:453
+msgid "Button #1 style"
+msgstr "Gaya tombol #1"
+
+#: inc/customize-configs/section-hero.php:113
+msgid "The hero content padding bottom in percent (%)."
+msgstr "Padding bawah konten hero dalam persen (%)."
+
+#: inc/customize-configs/section-hero.php:97
+msgid "The hero content padding top in percent (%)."
+msgstr "Padding atas konten hero dalam persen (%)."
+
+#: inc/customize-configs/section-hero.php:168
+msgid "The delay between the changing of each phrase in milliseconds."
+msgstr "Delay antara pergantian setiap phrasa dalam milliseconds."
+
+#: inc/customize-configs/site-identity.php:32
+msgid "Hide site tagline"
+msgstr "Sembunyikan slogan situs"
+
+#: inc/customize-configs/site-identity.php:17
+msgid "Hide site title"
+msgstr "Sembunyikan judul situs"
+
+#: inc/customize-configs/section-features.php:167
+#: inc/customize-configs/section-services.php:165
+msgid "image"
+msgstr "gambar"
+
+#: inc/customize-configs/section-hero.php:148
+msgid "Text animation"
+msgstr "Animasi tulisan"
+
+#: inc/admin/dashboard.php:110
+msgid "OnePress Theme %s"
+msgstr "Tema OnePress %s"
+
+#: inc/admin/dashboard.php:108
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s tindakan diperlukan"
+msgstr[1] "%1$s tindakan diperlukan"
+
+#: inc/customize-configs/options.php:26 inc/customize-configs/options.php:44
+msgid "Custom CSS"
+msgstr "CSS Kustom"
+
+#: section-parts/section-features.php:5
+msgid "Why choose Us"
+msgstr "Kenapa pilih kami"
+
+#: inc/customize-configs/section-features.php:185
+#: inc/customize-configs/section-news.php:267
+#: inc/customize-configs/section-team.php:161
+msgid "Custom Link"
+msgstr "Link Kustom"
+
+#: inc/customize-configs/section-features.php:181
+msgid "Description"
+msgstr "Deskripsi"
+
+#: inc/customize-configs/section-features.php:150
+msgid "Features content"
+msgstr "Konten fitur"
+
+#: inc/customize-configs/section-features.php:111
+msgid "Features Layout Setting"
+msgstr "Pengaturan Tata Letak Fitur"
+
+#: inc/class-config.php:136 inc/customize-configs/section-features.php:58
+#: section-parts/section-features.php:4
+msgid "Features"
+msgstr "Fitur"
+
+#: inc/customize-configs/section-features.php:43
+msgid "features"
+msgstr "fitur"
+
+#: inc/class-config.php:135 inc/customize-configs/section-features.php:8
+msgid "Section: Features"
+msgstr "Bagian: Fitur"
+
+#: inc/customize-configs/section-about.php:95
+#: inc/customize-configs/section-contact.php:95
+#: inc/customize-configs/section-counter.php:94
+#: inc/customize-configs/section-features.php:95
+#: inc/customize-configs/section-gallery.php:110
+#: inc/customize-configs/section-news.php:95
+#: inc/customize-configs/section-services.php:95
+#: inc/customize-configs/section-team.php:94
+msgid "Section Description"
+msgstr "Deskripsi Bagian"
+
+#: inc/customize-configs/section-features.php:176
+#: inc/customize-configs/section-hero.php:581
+#: inc/customize-configs/section-services.php:174
+msgid "Image"
+msgstr "Gambar"
+
+#: inc/customize-configs/section-hero.php:563
+msgid "Content Text"
+msgstr "Tulisan Konten"
+
+#: inc/customize-configs/section-hero.php:343
+msgid "Layout 2"
+msgstr "Tata Letak 2"
+
+#: inc/customize-configs/section-hero.php:342
+msgid "Layout 1"
+msgstr "Tata Letak 1"
+
+#: inc/customize-configs/section-hero.php:337
+msgid "Display Layout"
+msgstr "Tata Letak Tampilan"
+
+#: inc/customize-configs/options-footer.php:89
+msgid "URL"
+msgstr "URL"
+
+#: inc/customize-configs/options-footer.php:85
+#: inc/customize-configs/section-features.php:166
+#: inc/customize-configs/section-features.php:171
+#: inc/customize-configs/section-services.php:164
+#: inc/customize-configs/section-services.php:169
+msgid "Icon"
+msgstr "Ikon"
+
+#: inc/customize-configs/options-footer.php:81
+msgid "Social network"
+msgstr "Jejaring sosial"
+
+#: inc/customize-configs/options-footer.php:72
+msgid "Socials"
+msgstr "MedSos"
+
+#: inc/customize-configs/options-header.php:286
+msgid "Apply for front page template only."
+msgstr "Terapkan untuk template laman depan saja."
+
+#: inc/customize-configs/options-header.php:284
+msgid "Header Transparent"
+msgstr "Header Transparan"
+
+#: inc/template-tags.php:1877
+msgid "Subscribe"
+msgstr "Langganan"
+
+#: inc/template-tags.php:1876
+msgid "Enter your e-mail address"
+msgstr "Masukkan alamat email Anda"
+
+#: inc/admin/dashboard.php:312
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "Bantuan untuk tema WordPress %s tersedia via sistem tiket bantuan FameThemes"
+
+#: inc/admin/dashboard.php:306
+msgid "OnePress Documentation"
+msgstr "Dokumentasi OnePress"
+
+#: inc/customize-configs/section-about.php:119
+#: inc/customize-configs/section-features.php:118
+#: inc/customize-configs/section-services.php:119
+#: inc/customize-configs/section-team.php:117
+msgid "2 Columns"
+msgstr "2 Kolom"
+
+#: inc/customize-configs/section-about.php:118
+#: inc/customize-configs/section-features.php:117
+#: inc/customize-configs/section-services.php:118
+#: inc/customize-configs/section-team.php:116
+msgid "3 Columns"
+msgstr "3 Kolom"
+
+#: inc/customize-configs/section-about.php:117
+#: inc/customize-configs/section-features.php:116
+#: inc/customize-configs/section-services.php:117
+#: inc/customize-configs/section-team.php:115
+msgid "4 Columns"
+msgstr "4 Kolom"
+
+#: inc/customize-configs/section-about.php:196
+#: inc/customize-configs/section-features.php:210
+#: inc/customize-configs/section-services.php:235
+msgid "Page Excerpt"
+msgstr "Kutipan Laman"
+
+#: inc/customize-configs/section-about.php:195
+#: inc/customize-configs/section-features.php:209
+#: inc/customize-configs/section-services.php:234
+msgid "Full Page Content"
+msgstr "Konten Laman Penuh"
+
+#: inc/customize-configs/section-about.php:190
+#: inc/customize-configs/section-features.php:204
+#: inc/customize-configs/section-services.php:229
+msgid "Item content source"
+msgstr "Sumber konten item"
+
+#: inc/customize-configs/section-about.php:153
+msgid "About content page"
+msgstr "Laman konten Tentang"
+
+#: inc/customize-configs/section-hero.php:293
+msgid "Enable parallax effect (apply for first BG image only)"
+msgstr "Adakan efek parallax (penerapan untuk gambar latar pertama saja)"
+
+#: inc/customize-configs/options-header.php:99
+msgid "If you use logo and your logo is too tall, check this box to auto vertical align menu."
+msgstr "Jika Anda menggunakan logo dan logonya terlalu panjang, centang kotak ini untuk jajaran menu otomatis vertikal."
+
+#: inc/customize-configs/options-header.php:97
+msgid "Center vertical align for menu"
+msgstr "Jajaran vertikal tengah untuk menu"
+
+#: inc/customize-configs/options-header.php:262
+msgid "Responsive Menu Button Color"
+msgstr "Warna Tombol Menu Responsive"
+
+#: inc/customize-configs/options-header.php:241
+msgid "Menu Link Hover/Active BG Color"
+msgstr "Warna Latar Link Menu ketika Disentuh/Aktif"
+
+#: inc/customize-configs/options-header.php:219
+msgid "Menu Link Hover/Active Color"
+msgstr "Warna Link Menu ketika Disentuh/Aktif"
+
+#: inc/customize-configs/options-header.php:198
+msgid "Menu Link Color"
+msgstr "Warna Link Menu"
+
+#: inc/customize-configs/options-header.php:159
+msgid "Only set if you don't use an image logo."
+msgstr "Hanya atur jika Anda tidak menggunakan logo gambar."
+
+#: inc/customize-configs/options-header.php:157
+msgid "Site Title Color"
+msgstr "Warna Judul Situs"
+
+#: inc/customize-configs/options-footer.php:272
+#: inc/customize-configs/options-header.php:135
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: inc/customize-configs/options-header.php:12
+msgid "Header"
+msgstr "Header"
+
+#: inc/customize-configs/options-colors.php:28
+msgid "Primary Color"
+msgstr "Warna Utama"
+
+#: inc/customize-configs/options-colors.php:9
+msgid "Site Colors"
+msgstr "Warna Situs"
+
+#: inc/customize-configs/section-team.php:156
+msgid "User media"
+msgstr "Media pengguna"
+
+#: inc/customize-configs/section-videolightbox.php:98
+msgid "Background image"
+msgstr "Gambar latar belakang"
+
+#: inc/customize-configs/section-videolightbox.php:83
+msgid "Paste Youtube or Vimeo url here"
+msgstr "Tempelkan URL YouTube atau Vimeo disini"
+
+#: inc/customize-configs/section-videolightbox.php:81
+msgid "Video url"
+msgstr "URL Video"
+
+#: inc/customize-configs/section-videolightbox.php:66
+msgid "Section heading"
+msgstr "Bagian penjudulan"
+
+#: inc/class-config.php:165 inc/customize-configs/section-videolightbox.php:8
+msgid "Section: Video Lightbox"
+msgstr "Bagian: Lightbox Video"
+
+#: inc/admin/dashboard.php:435
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Hore! Tidak ada tindakan diperlukan saat ini."
+
+#: inc/admin/dashboard.php:425
+msgid "Change homepage page template"
+msgstr "Ganti template laman beranda"
+
+#: inc/admin/dashboard.php:411
+msgid "In order to change homepage section contents, you will need to set template \"Frontpage\" for your homepage."
+msgstr "Untuk mengganti konten bagian beranda, Anda perlu mengatur template \"Laman Depan\" untuk beranda."
+
+#: inc/admin/dashboard.php:408
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "Atur template laman beranda Anda menjadi \"Laman Depan\""
+
+#: inc/admin/dashboard.php:394 inc/admin/dashboard.php:418
+msgid "Setup front page displays"
+msgstr "Mengatur tampilan laman depan"
+
+#: inc/admin/dashboard.php:391
+msgid "In order to have the one page look for your website, please go to Customize -&gt; Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr "Untuk memiliki situs terlihat one page, silahkan pergi ke Kustomisasi -&gt; Laman Depan Statis dan alihkan :tampilan laman depan\" ke :Laman Statis\"."
+
+#: inc/admin/dashboard.php:389
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "Alihkan \"tampilan laman depan\" ke :Laman Statis\""
+
+#: inc/admin/dashboard.php:382 inc/admin/dashboard.php:401
+msgid "Dismiss"
+msgstr "Abaikan"
+
+#: inc/admin/dashboard.php:268
+msgid "Welcome to OnePress - Version %1s"
+msgstr "Selamat Datang di OnePRess - Versi %1s"
+
+#. translators: 1: name, 2: link
+#: inc/admin/dashboard.php:136
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "Selamat Datang! Terimakasih telah memilih %1$s! Untuk mendapatkan layanan lebih dari tema yang kami berikan pastikan Anda mengunjungi <a href=\"%2$s\">Laman Sambutan</a> kami"
+
+#: inc/admin/dashboard.php:112
+msgid "OnePress Theme"
+msgstr "Tema OnePress"
+
+#: inc/admin/dashboard.php:115
+msgid "OnePress Dashboard"
+msgstr "Dasbor OnePress"
+
+#: inc/customize-configs/options-page.php:102
+#: inc/customize-configs/section-hero.php:274
+msgid "Background Overlay Color"
+msgstr "Warna Overlay Latar Belakang"
+
+#: inc/customize-configs/section-upsell.php:13
+msgid "Section Order & Styling"
+msgstr "Gaya & Susunan Bagian"
+
+#: inc/customize-configs/options-header.php:80
+msgid "Check this box to disable sticky header when scroll."
+msgstr "Centang kotak ini untuk meniadakan header melekat ketika scroll."
+
+#: inc/customize-configs/options-header.php:78
+msgid "Disable Sticky Header?"
+msgstr "Tiadakan Header Melekat?"
+
+#. Template Name of the theme
+#: inc/customize-configs/options-single.php:29
+msgid "Left Sidebar"
+msgstr "Sidebar Kiri"
+
+#: inc/customize-configs/options-header.php:35
+#: inc/customize-configs/section-gallery.php:193
+msgid "Full Width"
+msgstr "Lebar Penuh"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Laman Depan"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Kami tidak dapat menemukan apa yang Anda maksud. Mungkin pencarian dapat membantu."
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata kunci Anda. Silahkan coba lagi dengan kata kunci berbeda."
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap mempublikasikan pos pertama Anda? <a href=\"%1$s\">Mulai disini</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: template-parts/content-list.php:78 template-parts/content-page.php:21
+#: template-parts/content-single.php:35 template-parts/content.php:57
+msgid "Pages:"
+msgstr "Laman:"
+
+#: section-parts/section-hero.php:94
+msgid "#services"
+msgstr "#layanan"
+
+#: section-parts/section-contact.php:53
+msgid "You can install %1$s plugin and go to Customizer &rarr; Section: Contact &rarr; Section Content to show a working contact form here."
+msgstr "Anda dapat memasang plugin %1$s dan pergi ke Kustomsisasi &rarr; Bagian: Kontak &rarr; Konten Bagian untuk menampilkan formulir kontak disini."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: inc/template-tags.php:504
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda menunggu moderasi."
+
+#: inc/template-tags.php:499
+msgid "Edit"
+msgstr "Sunting"
+
+#: inc/template-tags.php:492
+msgid "Reply"
+msgstr "Balas"
+
+#: inc/template-tags.php:479
+msgid "Post author"
+msgstr "Penulis"
+
+#: inc/template-tags.php:459
+msgid "(Edit)"
+msgstr "(Sunting)"
+
+#: inc/template-tags.php:459
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:377
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/template-tags.php:377
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/template-tags.php:377
+msgid "Leave a comment"
+msgstr "Tinggalkan Komentar"
+
+#. translators: 1 : tag list
+#: inc/template-tags.php:369
+msgid "Tagged %1$s"
+msgstr "Tag %1$s"
+
+#: inc/template-tags.php:360
+msgid "Posted in %1$s"
+msgstr "Diposkan di %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:358 inc/template-tags.php:364
+msgid ", "
+msgstr ", "
+
+#. translators: 1: author
+#: inc/template-tags.php:338
+msgctxt "post author"
+msgid "by %s"
+msgstr "oleh %s"
+
+#. translators: 1: time
+#: inc/template-tags.php:332
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Diposkan pada %s"
+
+#: inc/admin/dashboard.php:311
+msgid "Having Trouble, Need Support?"
+msgstr "Ada Masalah, Butuh Bantuan ?"
+
+#: inc/admin/dashboard.php:304
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Perlu bantuan mengkonfigurasi %s? Silahkan lihat instruksi dokumentasi kami."
+
+#: inc/admin/dashboard.php:303
+msgid "Theme Documentation"
+msgstr "Dokumentasi Tema"
+
+#: inc/admin/dashboard.php:299
+msgid "Start Customize"
+msgstr "Mulai Kustomisasi"
+
+#: inc/admin/dashboard.php:297
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s mendukung Pengkustom Tema untuk semua pengaturan tema. Klik \"Kustomisasi\" untuk memulai mengkustom situs."
+
+#: inc/admin/dashboard.php:296
+msgid "Theme Customizer"
+msgstr "Penyesuai Tema"
+
+#: inc/admin/dashboard.php:269
+msgid "OnePress is a creative and flexible WordPress ONE PAGE theme well suited for business, portfolio, digital agency, product showcase, freelancers websites."
+msgstr "OnePress adalah tema ONE PAGE WordPress yang kreatif dan fleksibel cocok untuk bisnis, portofolio, agensi digital, produk, situs freelancer."
+
+#: inc/customize-configs/section-contact.php:253
+msgid "Fax"
+msgstr "Fax"
+
+#: inc/customize-configs/section-contact.php:238
+msgid "Email"
+msgstr "Email"
+
+#: inc/customize-configs/section-contact.php:223
+msgid "Phone"
+msgstr "Telepon"
+
+#: inc/customize-configs/section-contact.php:208
+msgid "Address"
+msgstr "Alamat"
+
+#: inc/customize-configs/section-contact.php:193
+msgid "Contact Box Title"
+msgstr "Judul Kotak Kontak"
+
+#: inc/customize-configs/section-contact.php:169
+msgid "Contact Text"
+msgstr "Tulisan Kontak"
+
+#: inc/customize-configs/section-contact.php:154
+msgid "Check this box to hide contact form."
+msgstr "Centang kotak ini untuk menyembunyikan formulit kontak."
+
+#: inc/customize-configs/section-contact.php:152
+msgid "Hide contact form completely."
+msgstr "Sembunyikan formulir kontak."
+
+#: inc/class-config.php:123 inc/customize-configs/section-contact.php:58
+#: section-parts/section-contact.php:4
+msgid "Get in touch"
+msgstr "Tetap Terhubung"
+
+#: inc/customize-configs/section-contact.php:43
+msgid "contact"
+msgstr "kontak"
+
+#: inc/class-config.php:122 inc/customize-configs/section-contact.php:8
+msgid "Section: Contact"
+msgstr "Bagian: Kontak"
+
+#: inc/customize-configs/section-news.php:292 section-parts/section-news.php:16
+msgid "Read Our Blog"
+msgstr "Lihat Blog Kami"
+
+#: inc/customize-configs/section-news.php:183
+msgid "Number of post to show"
+msgstr "Jumlah pos yang ditampilkan"
+
+#: inc/class-config.php:148 inc/customize-configs/section-news.php:58
+#: section-parts/section-news.php:11
+msgid "Latest News"
+msgstr "Berita Terbaru"
+
+#: inc/customize-configs/section-news.php:43
+msgid "news"
+msgstr "berita"
+
+#: inc/class-config.php:147 inc/customize-configs/section-news.php:8
+msgid "Section: News"
+msgstr "Bagian: Berita"
+
+#: inc/customize-configs/section-team.php:147
+msgid "Team members"
+msgstr "Anggota Tim"
+
+#: inc/class-config.php:160 inc/customize-configs/section-team.php:57
+#: section-parts/section-team.php:4
+msgid "Our Team"
+msgstr "Tim Kami"
+
+#: inc/customize-configs/section-team.php:42
+msgid "team"
+msgstr "tim"
+
+#: inc/class-config.php:159 inc/customize-configs/section-team.php:8
+msgid "Section: Team"
+msgstr "Bagian: Tim"
+
+#: inc/customize-configs/section-counter.php:150
+msgid "After number"
+msgstr "Setelah angka"
+
+#: inc/customize-configs/section-counter.php:145
+msgid "Before number"
+msgstr "Sebelum angka"
+
+#: inc/customize-configs/section-counter.php:140
+msgid "Number"
+msgstr "Angka"
+
+#: inc/customize-configs/section-counter.php:137
+msgid "Your counter label"
+msgstr "Label penghitung"
+
+#: inc/customize-configs/section-counter.php:134
+#: inc/customize-configs/section-features.php:159
+#: inc/customize-configs/section-news.php:223
+msgid "Title"
+msgstr "Judul"
+
+#: inc/customize-configs/section-counter.php:125
+msgid "Counter content"
+msgstr "Konten penghitung"
+
+#: inc/class-config.php:130 inc/customize-configs/section-counter.php:57
+#: section-parts/section-counter.php:4
+msgid "Our Numbers"
+msgstr "Angka Kami"
+
+#: inc/customize-configs/section-counter.php:42
+msgid "counter"
+msgstr "penghitung"
+
+#: inc/class-config.php:129 inc/customize-configs/section-counter.php:8
+msgid "Section: Counter"
+msgstr "Bagian: Penghitung"
+
+#: inc/customize-configs/section-features.php:163
+#: inc/customize-configs/section-services.php:161
+msgid "Custom icon"
+msgstr "Ikon Kustom"
+
+#: inc/customize-configs/section-services.php:152
+msgid "Service content"
+msgstr "Konten Layanan"
+
+#: inc/class-config.php:154 inc/customize-configs/section-services.php:58
+#: section-parts/section-hero.php:93 section-parts/section-services.php:4
+msgid "Our Services"
+msgstr "Layanan Kami"
+
+#: inc/customize-configs/section-services.php:43
+msgid "services"
+msgstr "layanan"
+
+#: inc/class-config.php:153 inc/customize-configs/section-services.php:8
+msgid "Section: Services"
+msgstr "Bagian: Layanan"
+
+#: inc/customize-configs/section-about.php:171
+#: inc/customize-configs/section-services.php:185
+msgid "Link to single page"
+msgstr "Link ke laman tunggal"
+
+#: inc/customize-configs/section-about.php:167
+msgid "Hide item title"
+msgstr "Sembunyikan judul item"
+
+#: inc/customize-configs/section-about.php:162
+#: inc/customize-configs/section-services.php:180
+msgid "Select a page"
+msgstr "Pilih laman"
+
+#: inc/customize-configs/options-footer.php:76
+#: inc/customize-configs/section-about.php:157
+#: inc/customize-configs/section-counter.php:129
+#: inc/customize-configs/section-features.php:154
+#: inc/customize-configs/section-services.php:156
+#: inc/customize-configs/section-team.php:151
+msgid "[live_title]"
+msgstr "[live_title]"
+
+#: inc/customize-configs/section-about.php:132
+#: inc/customize-configs/section-contact.php:108
+#: inc/customize-configs/section-counter.php:105
+#: inc/customize-configs/section-features.php:130
+#: inc/customize-configs/section-gallery.php:125
+#: inc/customize-configs/section-services.php:132
+#: inc/customize-configs/section-team.php:127
+msgid "Section Content"
+msgstr "Konten Bagian"
+
+#: inc/customize-configs/section-about.php:78
+#: inc/customize-configs/section-contact.php:78
+#: inc/customize-configs/section-counter.php:77
+#: inc/customize-configs/section-features.php:78
+#: inc/customize-configs/section-gallery.php:91
+#: inc/customize-configs/section-news.php:78
+#: inc/customize-configs/section-services.php:78
+#: inc/customize-configs/section-team.php:77
+msgid "Section Subtitle"
+msgstr "Subjudul Bagian"
+
+#: inc/customize-configs/section-about.php:73
+#: inc/customize-configs/section-contact.php:73
+#: inc/customize-configs/section-counter.php:72
+#: inc/customize-configs/section-features.php:73
+#: inc/customize-configs/section-gallery.php:85
+#: inc/customize-configs/section-news.php:73
+#: inc/customize-configs/section-services.php:73
+#: inc/customize-configs/section-team.php:72 section-parts/section-about.php:5
+#: section-parts/section-contact.php:5 section-parts/section-counter.php:5
+#: section-parts/section-gallery.php:5 section-parts/section-news.php:12
+#: section-parts/section-services.php:5 section-parts/section-team.php:5
+msgid "Section subtitle"
+msgstr "Subjudul Bagian"
+
+#: inc/customize-configs/section-about.php:63
+#: inc/customize-configs/section-contact.php:63
+#: inc/customize-configs/section-counter.php:62
+#: inc/customize-configs/section-features.php:63
+#: inc/customize-configs/section-gallery.php:74
+#: inc/customize-configs/section-news.php:63
+#: inc/customize-configs/section-services.php:63
+#: inc/customize-configs/section-team.php:62
+msgid "Section Title"
+msgstr "Judul Bagian"
+
+#: inc/customize-configs/section-about.php:43
+msgid "about"
+msgstr "tentang"
+
+#: inc/customize-configs/section-about.php:17
+#: inc/customize-configs/section-contact.php:17
+#: inc/customize-configs/section-counter.php:17
+#: inc/customize-configs/section-features.php:17
+#: inc/customize-configs/section-gallery.php:22
+#: inc/customize-configs/section-news.php:17
+#: inc/customize-configs/section-services.php:17
+#: inc/customize-configs/section-team.php:17
+#: inc/customize-configs/section-videolightbox.php:17
+msgid "Section Settings"
+msgstr "Pengaturan Bagian"
+
+#: inc/class-config.php:116 inc/customize-configs/section-about.php:8
+msgid "Section: About"
+msgstr "Bagian: Tentang"
+
+#: inc/customize-configs/section-hero.php:505
+msgid "Button #2 Link"
+msgstr "Link Tombol #2"
+
+#: inc/customize-configs/section-hero.php:500 section-parts/section-hero.php:96
+msgid "#contact"
+msgstr "#kontak"
+
+#: inc/customize-configs/section-hero.php:491
+msgid "Button #2 Text"
+msgstr "Tulisan Tombol #2"
+
+#: inc/customize-configs/section-hero.php:486 section-parts/section-hero.php:95
+msgid "Get Started"
+msgstr "Mulai"
+
+#: inc/customize-configs/section-hero.php:440
+msgid "Button #1 Link"
+msgstr "Link Tombol #1"
+
+#: inc/customize-configs/section-hero.php:435
+msgid "#about"
+msgstr "#tentang"
+
+#: inc/customize-configs/section-hero.php:426
+msgid "Button #1 Text"
+msgstr "Tulisan Tombol #1"
+
+#: inc/class-config.php:117 inc/customize-configs/section-about.php:58
+#: inc/customize-configs/section-hero.php:421 section-parts/section-about.php:4
+msgid "About Us"
+msgstr "Tentang Kami"
+
+#: inc/customize-configs/section-hero.php:413
+msgid "You can use text rotate slider in this textarea too."
+msgstr "Anda dapat menggunakan slider memutar tulisan di bidang ini."
+
+#: inc/customize-configs/section-hero.php:410
+msgid "Small Text"
+msgstr "Tulisan Kecil"
+
+#: inc/customize-configs/section-hero.php:361
+msgid "Large Text"
+msgstr "Tulisan Besar"
+
+#: inc/customize-configs/section-hero.php:321
+msgid "Hero Content Layout"
+msgstr "Tata Letak Konten Hero"
+
+#: inc/customize-configs/section-hero.php:248
+msgid "Background Image"
+msgstr "Gambar Latar Belakang"
+
+#: inc/customize-configs/options-footer.php:160
+#: inc/customize-configs/options-footer.php:348
+#: inc/customize-configs/section-hero.php:243
+msgid "Background"
+msgstr "Latar Belakang"
+
+#: inc/customize-configs/section-hero.php:239
+msgid "Background Images"
+msgstr "Gambar Latar Belakang"
+
+#: inc/customize-configs/section-hero.php:213
+msgid "Hero Background Media"
+msgstr "Media Latar Belakang Hero"
+
+#: inc/customize-configs/section-hero.php:111
+msgid "Padding Bottom:"
+msgstr "Padding Bawah:"
+
+#: inc/customize-configs/section-hero.php:95
+msgid "Padding Top:"
+msgstr "Padding Atas:"
+
+#: inc/customize-configs/section-hero.php:90
+#: inc/customize-configs/section-hero.php:106
+msgid "10"
+msgstr "10"
+
+#: inc/customize-configs/section-hero.php:67
+msgid "Check this box to make hero section full screen."
+msgstr "Centang kotak ini untuk membuat bagian hero selayar penuh."
+
+#: inc/customize-configs/section-hero.php:65
+msgid "Make hero section full screen"
+msgstr "Buat bagian heri layar penuh"
+
+#: inc/customize-configs/section-about.php:48
+#: inc/customize-configs/section-contact.php:48
+#: inc/customize-configs/section-counter.php:47
+#: inc/customize-configs/section-features.php:48
+#: inc/customize-configs/section-gallery.php:57
+#: inc/customize-configs/section-hero.php:49
+#: inc/customize-configs/section-news.php:48
+#: inc/customize-configs/section-services.php:48
+#: inc/customize-configs/section-team.php:47
+#: inc/customize-configs/section-videolightbox.php:48
+msgid "Section ID:"
+msgstr "Bagian ID:"
+
+#: inc/customize-configs/section-hero.php:44
+msgid "hero"
+msgstr "hero"
+
+#: inc/customize-configs/section-about.php:35
+#: inc/customize-configs/section-contact.php:35
+#: inc/customize-configs/section-counter.php:34
+#: inc/customize-configs/section-features.php:35
+#: inc/customize-configs/section-gallery.php:42
+#: inc/customize-configs/section-hero.php:37
+#: inc/customize-configs/section-news.php:35
+#: inc/customize-configs/section-services.php:35
+#: inc/customize-configs/section-team.php:35
+#: inc/customize-configs/section-videolightbox.php:35
+msgid "Check this box to hide this section."
+msgstr "Centang kotak ini untuk menyembunyikan bagian ini."
+
+#: inc/customize-configs/section-about.php:33
+#: inc/customize-configs/section-contact.php:33
+#: inc/customize-configs/section-counter.php:32
+#: inc/customize-configs/section-features.php:33
+#: inc/customize-configs/section-gallery.php:40
+#: inc/customize-configs/section-hero.php:35
+#: inc/customize-configs/section-news.php:33
+#: inc/customize-configs/section-services.php:33
+#: inc/customize-configs/section-team.php:33
+#: inc/customize-configs/section-videolightbox.php:33
+msgid "Hide this section?"
+msgstr "Sembunyikan bagian ini?"
+
+#: inc/customize-configs/section-hero.php:19
+msgid "Hero Settings"
+msgstr "Pengaturan Hero"
+
+#: inc/class-config.php:110 inc/customize-configs/section-hero.php:9
+msgid "Section: Hero"
+msgstr "Bagian: Hero"
+
+#: inc/customize-configs/options-footer.php:145
+msgid "MailChimp Action URL"
+msgstr "URL TIndakan MailChimp"
+
+#: inc/customize-configs/options-footer.php:129
+msgid "Newsletter Form Title"
+msgstr "Judul Formulir Surat Kabar"
+
+#: inc/customize-configs/options-footer.php:115
+msgid "Check this box to hide footer newsletter form."
+msgstr "Centang kotak ini untuk menyembunyikan formulir surat kabar footer."
+
+#: inc/customize-configs/options-footer.php:113
+msgid "Hide Footer Newsletter?"
+msgstr "Sembunyikan Surat Kabar Footer?"
+
+#: inc/customize-configs/options-footer.php:52
+msgid "Social Footer Title"
+msgstr "Judul MedSos Footer"
+
+#: inc/customize-configs/options-footer.php:25
+msgid "Check this box to hide footer social section."
+msgstr "Centang kotak ini untuk menyembunyikan bagian medsos di footer."
+
+#: inc/customize-configs/options-footer.php:23
+msgid "Hide Footer Social?"
+msgstr "Sembunyikan MedSos Footer ?"
+
+#: inc/customize-configs/options-global.php:66
+msgid "Check this box to hide footer back to top button."
+msgstr "Centang kotak ini untuk menyembunyikan tombol kembali ke atas."
+
+#: inc/customize-configs/options-global.php:64
+msgid "Hide footer back to top?"
+msgstr "Sembunyikan kembali ke atas?"
+
+#: inc/customize-configs/options-global.php:49
+msgid "Check this box to disable all element animation when scroll."
+msgstr "Centang kotak ini untuk meniadakan semua animasi elemen ketika scroll."
+
+#: inc/customize-configs/options-global.php:47
+msgid "Disable animation effect?"
+msgstr "Tiadakan efek animasi?"
+
+#: inc/customize-configs/options-global.php:7
+msgid "Global"
+msgstr "GLobal"
+
+#: inc/customize-configs/options.php:14
+msgid "Theme Options"
+msgstr "Opsi Tema"
+
+#: inc/customizer.php:77
+msgid "Select member"
+msgstr "Pilih anggota"
+
+#: inc/customizer.php:66
+msgid "Select page"
+msgstr "Pilih laman"
+
+#: inc/customize-controls/control-repeater.php:357
+msgid "Close"
+msgstr "Tutup"
+
+#: inc/customize-controls/control-repeater.php:322
+msgid "Change"
+msgstr "Ganti"
+
+#: inc/customize-controls/control-repeater.php:322
+msgid "Add"
+msgstr "Tambah"
+
+#: inc/customize-controls/control-repeater.php:321
+#: inc/customize-controls/control-repeater.php:343
+#: inc/customize-controls/control-repeater.php:355
+msgid "Remove"
+msgstr "Singkirkan"
+
+#: inc/customize-controls/control-repeater.php:76
+#: inc/customize-controls/control-repeater.php:205
+msgid "Item"
+msgstr "Item"
+
+#: inc/customize-controls/control-repeater.php:190
+msgid "Add an item"
+msgstr "Tambah item"
+
+#: inc/template-tags.php:228
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Lompat ke konten"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:437
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:430
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:228
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:85
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#. translators: 1: themename, 2: author
+#: inc/template-tags.php:1596
+msgid "%1$s theme by %2$s"
+msgstr "%1$s tema oleh %2$s"
+
+#: inc/template-tags.php:1592
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "Copyright %1$s %2$s %3$s"
+
+#: footer.php:44
+msgid "Back To Top"
+msgstr "Kembali ke Atas"
+
+#: inc/customize-configs/options-footer.php:123 inc/template-tags.php:1866
+msgid "Join our Newsletter"
+msgstr "Gabung Surat Kabar kami"
+
+#: inc/customize-configs/options-footer.php:46 inc/template-tags.php:1885
+msgid "Keep Updated"
+msgstr "Tetap Update"
+
+#: comments.php:94
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:60 comments.php:82
+msgid "Newer Comments"
+msgstr "Komentar Terbaru"
+
+#: comments.php:59 comments.php:81
+msgid "Older Comments"
+msgstr "Komentar Terdahulu"
+
+#: comments.php:56 comments.php:78
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Cobalah mencari di arsip bulanan. %1$s"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Kategori Paling Sering Digunakan"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sepertinya tak ada apapun di lokasi ini. Mau coba salah satu tautan berikut atau lakukan pencarian?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.famethemes.com/themes/onepress/"
+msgstr "https://www.famethemes.com/themes/onepress/"
